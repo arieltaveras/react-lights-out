@@ -90,7 +90,7 @@ function Board({ nrows = 5, ncols = 5, chanceLightStartsOn = 0.25}) {
     <table className="Board">
       <tbody>{tableBoard}</tbody>
     </table>
-  );
+);
 }
 
 export default Board;
