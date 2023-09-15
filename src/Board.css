@@ -1,3 +1,12 @@
 .Board {
   margin: 0 auto;
 }
+
+.You-win {
+  font-size: 250px;
+  font-weight: bold;
+  color: goldenrod;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: whitesmoke;
+  background-color: black;
+}
